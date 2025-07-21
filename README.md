@@ -1,8 +1,9 @@
-<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/3785b428-122a-40e4-82b3-12c1c46b98d1" />
-<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/d6b7a91b-61bc-4dd3-bddf-3263b72ae8ba" />
-<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/899dd6a6-52c3-457f-8582-7a011f900226" />
-<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/de6f7605-4657-44fd-802f-f20e4044bd49" />
-<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/a1e85c9b-8506-4d79-8ea0-48dadbb92da7" />
+<img width="1920" height="1080" alt="Screenshot (148)" src="https://github.com/user-attachments/assets/e089a412-e2ab-4289-8bcd-f98d045e8db8" />
+<img width="1920" height="1080" alt="Screenshot (149)" src="https://github.com/user-attachments/assets/8f40b2ae-fc59-4334-a4e5-3664595d4500" />
+<img width="1920" height="1080" alt="Screenshot (150)" src="https://github.com/user-attachments/assets/752a04ea-885b-4288-aebc-a8fc10174385" />
+<img width="1920" height="1080" alt="Screenshot (151)" src="https://github.com/user-attachments/assets/4d60d3ad-f661-47d1-8cbd-69b2be01a1a3" />
+<img width="1920" height="1080" alt="Screenshot (152)" src="https://github.com/user-attachments/assets/d4ec923c-154a-4dad-8914-cc2aa0d54c9e" />
+
 📁 Decentralized Google Drive using Blockchain, Django & IPFS
 
 🚀 A secure, decentralized alternative to traditional cloud storage platforms like Google Drive — built using **Ethereum**, **IPFS**, **Django**, and **React**.
